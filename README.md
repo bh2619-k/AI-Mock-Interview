@@ -72,11 +72,10 @@ AI Mock Interview Platform helps candidates rehearse interviews with realistic v
 
 <p align="center">
   <b>🎥 Video Walkthrough</b><br />
-  <a href="https://drive.google.com/file/d/1EoT9bPjASaSCWIkFWvS6jwsu_8WlhWrZ/view?usp=sharing" target="_blank">
+  <a href="https://u.pcloud.link/publink/show?code=XZkNbK5ZHFNxRrUItT8ymzRHPfApmYr9bqh7" target="_blank">
     ▶️ Watch the demo video here
   </a>
 </p>
-
 
 <hr />
 
@@ -90,7 +89,6 @@ AI Mock Interview Platform helps candidates rehearse interviews with realistic v
   <li><strong>Gemini</strong> used server-side for question generation, summaries, and feedback .</li>
   <li><strong>shadcn/ui</strong> for accessible, consistent components; charts via a lightweight React chart lib.</li>
 </ul>
-
 
 <hr />
 
@@ -147,8 +145,6 @@ Tip: Generate <code>AUTH_SECRET</code> with <code>openssl rand -base64 32</code>
 
 <hr />
 
-
-
 <h2 id="voice">🗣️ Voice (Vapi) Integration</h2>
 
 <ul>
@@ -167,7 +163,6 @@ Tip: Generate <code>AUTH_SECRET</code> with <code>openssl rand -base64 32</code>
 </ul>
 
 <hr />
-
 
 <h2 id="pages">🧭 Key Pages</h2>
 
